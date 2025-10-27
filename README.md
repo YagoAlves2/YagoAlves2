@@ -15,4 +15,4 @@
 <a href="www.linkedin.com/in/yago-alves2002" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div class="tenor-gif-embed" data-postid="26476683" data-share-method="host" data-aspect-ratio="1.16788" data-width="100%"><a href="https://tenor.com/view/thank-you-sticker-thanks-sticker-line-sticker-cat-sticker-orange-cat-gif-26476683">
+<div class="tenor-gif-embed" data-postid="696455512915195859" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/menglanpanda-menglan-panda-qu%E1%BA%ABy-yeah-yeah-gif-696455512915195859">Menglanpanda Quẫy GIF</a>from <a href="https://tenor.com/search/menglanpanda-gifs">Menglanpanda GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
