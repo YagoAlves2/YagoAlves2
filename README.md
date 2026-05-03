@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Yago Alves.
 
-### I am a computer engineering student
+### I am a software engineering student
 ### I'm learning about coding in C and studying about creating 2D games using Unity engine
 
 
